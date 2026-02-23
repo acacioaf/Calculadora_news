@@ -1,0 +1,21 @@
+{
+  "name": "NEWS2 - Santa Marta",
+  "short_name": "NEWS2",
+  "description": "Calculadora de NEWS2 - Hospital Santa Marta",
+  "start_url": "NEWS_ICM.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f26522",
+  "icons": [
+    {
+      "src": "logo_topo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo_topo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
