@@ -1,5 +1,4 @@
 :root { 
-    --hsm-orange: #f26522; 
     --hsm-green: #898d3d; 
     --bg-gray: #f0f2f5;
     --text-dark: #1a1c1e;
@@ -134,5 +133,6 @@ input, select {
 
 
 @keyframes slideUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
 
 
