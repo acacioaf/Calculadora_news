@@ -272,6 +272,13 @@
         document.querySelectorAll('select').forEach(s => s.selectedIndex = 0);
         document.getElementById('res-container').style.display = 'none';
     }
+
+    if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js")
+    .then(() => console.log("Service Worker registrado"));
+}
+    
 </script>
 </body>
 </html>
+
