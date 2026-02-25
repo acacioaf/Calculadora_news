@@ -2,7 +2,7 @@
   "name": "NEWS2 - Santa Marta",
   "short_name": "NEWS2",
   "description": "Calculadora de NEWS2 - Hospital Santa Marta",
-  "start_url": "NEWS_ICM.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "icons": 
@@ -20,5 +20,6 @@
 ]
 
 }
+
 
 
